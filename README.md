@@ -5,8 +5,8 @@ Aplicación React + Vite para crear cotizaciones de viajes y descargarlas como P
 ## Desarrollo local
 
 ```bash
-pnpm install
-pnpm dev
+npm install
+npm run dev
 ```
 
 ## Publicación
